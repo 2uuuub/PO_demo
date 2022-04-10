@@ -17,6 +17,7 @@ class RuBe(BaseCase):
        self.open(LoginPage.url)
 
     # 切换frame
+
     def qiehaunframe(self):
         self.switch_to_frame(LoginPage.iframe)
 
