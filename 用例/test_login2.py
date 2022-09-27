@@ -9,7 +9,7 @@ from seleniumbase import BaseCase
 from PO模型.对象.page import LoginPage
 
 
-class RuBe(BaseCase):
+class RuBe(BaseCase, LoginPage):
 
     # 打开网址
     def dakaiwangzhi(self):

@@ -5,10 +5,10 @@
 # @File    : page.py
 
 
-from seleniumbase import BaseCase
+#from seleniumbase import BaseCase
 
 
-class LoginPage(BaseCase):
+class LoginPage:
     # 网址
     url = 'https://graph.qq.com/oauth2.0/show?which=Login&display=pc&response_type=code&client_id=101487368&redirect_uri=https%3A%2F%2Fpacaio.match.qq.com%2Fqq%2FloginBack%3Fsurl%3Dhttps%3A%2F%2Fwww.qq.com%2F&state=5b481c68e379d'
     iframe = 'ptlogin_iframe'
