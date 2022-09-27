@@ -19,9 +19,9 @@ class LoginPage(BaseCase):
     # 密码栏
     pwd = '[id="p"]'
     # 授权并登录按钮
-    button = '[value="授权并登录"]'
+    button = '[value="登录"]'
     # 断言出现元素
-    assert_text = '[bosszone="jrht_logo"]'
+    assert_text = 'a[id="forgetpwd"]'
 
 
 

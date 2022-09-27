@@ -10,7 +10,7 @@ from PO模型.对象.page import LoginPage
 
 
 class RuBe(BaseCase):
-    LoginPage.dakaiwangzhi()
+    # LoginPage.dakaiwangzhi()
 
     # 打开网址
     def dakaiwangzhi(self):

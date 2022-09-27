@@ -39,8 +39,8 @@ class RuBe(BaseCase):
         self.dakaiwangzhi()
         self.qiehaunframe()
         self.dianjizhanghaomimadenglu()
-        self.shuruyonghuming('1262364801')
-        self.shurumima('a384036208')
+        self.shuruyonghuming('384036208')
+        self.shurumima('ypp.com.cn')
         self.dianjidengluanniu()
 
         # 断言
