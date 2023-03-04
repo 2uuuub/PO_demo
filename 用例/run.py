@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2022/1/16 0:37
 # @Author  : brUce 杨
-# @File    : 多进程运行.py
+# @File    : run.py
 
 import os
 
